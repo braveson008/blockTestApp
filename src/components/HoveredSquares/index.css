@@ -1,0 +1,9 @@
+.hovered-button {
+  border: 1px solid #dedede;
+  background-color: royalblue;
+  color: white;
+  width: 25%;
+  height: 45px;
+  margin: 10px;
+  letter-spacing: 1px;
+}

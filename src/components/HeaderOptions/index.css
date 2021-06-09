@@ -1,0 +1,27 @@
+.selector-dropdown {
+  height: 40px;
+  width: 35%;
+  margin: 5px;
+  border: 1px solid #dedede;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.option-selector {
+  font-size: 16px;
+  color: #4a4b4c;
+}
+
+.start-button {
+  width: 15%;
+  height: 35px;
+  border: 1px solid royalblue;
+  background-color: royalblue;
+  color: white;
+  letter-spacing: 1px;
+}
+
+.start-button:hover {
+  background-color: white;
+  color: royalblue;
+}
